@@ -1,0 +1,49 @@
+h1, strong
+{
+    color: blue;
+}
+
+#logo
+{
+    color: green;
+}
+
+h1
+{
+    font-family: Impact, "Arial Black", Arial, Verdana, sans-serif;
+}
+
+.bvn
+{
+    font-family: Verdana, sans-serif;
+}
+
+.imageflottante
+{
+    float: center;
+}
+
+body
+{
+    background-image: url("fond.jpg");
+    background-repeat: no-repeat;
+}
+
+body
+{
+    font-size: large;
+    text-align: center;
+}
+
+.pge
+{
+    font-size: x-large;
+}
+
+ul
+{
+    font-size: large;
+}
+
+
+
